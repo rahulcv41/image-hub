@@ -29,7 +29,7 @@ div.container>.search>input {
     
 }
 div.container>.search>input:focus {
-    outline-width: none;
+    outline: none;
 }
 
 div.container>.search>.button {
